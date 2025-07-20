@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 #### 🗄️ Database
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
 
