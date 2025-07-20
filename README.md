@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 📫 Contact Me
 - 💬 Discord: `astra_lofi_music`
-- 🎧 YouTube: [@astraAnimeMusicLofi](https://www.youtube.com/@astraAnimeMusicLofi)
+- 🎧 YouTube: [@astraAnimeMusicLofi](https://www.youtube.com/@astraMusicAnimeLofi)
 
 ---
 
