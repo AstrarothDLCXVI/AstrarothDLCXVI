@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m currently working on:  
   [🎨 styles_gallery_css](https://astrarothdlcxvi.github.io/styles_gallery_css.github.io/) – A gallery of CSS styles & components.  
   [🎵 AstraMusic](https://astrarothdlcxvi.github.io/AstraMusic.github.io/) – My personal music site.
-- 🌱 I’m learning: **JavaScript**, **React**, **Python** and **Java**
+- 🌱 I’m learning: **node**, **react** and **Astro**
 - 👨‍💻 Passionate about UI design and interactive web experiences
 - 🎧 I also run a YouTube channel: [Astra Lofi](https://www.youtube.com/@astraMusicAnimeLofi)
 
